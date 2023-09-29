@@ -1,0 +1,3 @@
+{1=The designation is Backend Developer and skills are [Sql, Java, Mern]}
+{1=The designation is Backend Developer and skills are [Sql, Java, Mern]}The designation is FrontEnd Developer and skills are [React, MERN]
+{1=The designation is Backend Developer and skills are [Sql, Java, Mern]}The designation is FrontEnd Developer and skills are [React, MERN] and his bonuses are [50000]
