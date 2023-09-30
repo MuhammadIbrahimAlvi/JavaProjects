@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Employee/Employee.iml" filepath="$PROJECT_DIR$/Employee/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProjects.iml" filepath="$PROJECT_DIR$/.idea/JavaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootTutorial/SpringBootTutorial.iml" filepath="$PROJECT_DIR$/SpringBootTutorial/SpringBootTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentMagae/StudentMagae.iml" filepath="$PROJECT_DIR$/StudentMagae/StudentMagae.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentsManagementSystem/StudentsManagementSystem.iml" filepath="$PROJECT_DIR$/StudentsManagementSystem/StudentsManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crud/crud.iml" filepath="$PROJECT_DIR$/crud/crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernatesrping/hibernatesrping.iml" filepath="$PROJECT_DIR$/hibernatesrping/hibernatesrping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentSB/student.iml" filepath="$PROJECT_DIR$/studentSB/student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentdemo/studentdemo.iml" filepath="$PROJECT_DIR$/studentdemo/studentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teachermanagement/teachermanagement.iml" filepath="$PROJECT_DIR$/teachermanagement/teachermanagement.iml" />
+    </modules>
+  </component>
+</project>
