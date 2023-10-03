@@ -9,9 +9,6 @@ public class SqlConnection {
     private static SqlConnection sqlConnection;
     private static Object mutex = new Object();
 
-    private static final String DRIVER_CLASS = "com.mysql.jdbc.Driver";
-
-
     private SqlConnection() {
 
     }
